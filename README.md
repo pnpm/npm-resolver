@@ -1,5 +1,7 @@
 # @pnpm/npm-resolver
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pnpm/npm-resolver.svg)](https://greenkeeper.io/)
+
 > Resolver for npm-hosted packages
 
 <!--@shields('npm', 'travis')-->
