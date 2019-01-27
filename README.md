@@ -1,3 +1,5 @@
+> this repo was moved to https://github.com/pnpm/pnpm/tree/master/packages/npm-resolver
+
 # @pnpm/npm-resolver
 
 > Resolver for npm-hosted packages
